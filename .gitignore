@@ -1,1 +1,4 @@
-about.html
+*.iml
+.idea/
+out/
+*.html
