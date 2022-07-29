@@ -27,7 +27,6 @@ public class Book {
         else {
             raiting--;
         }
-                }
 
         public void append(String moreText){
         text += moreText;
