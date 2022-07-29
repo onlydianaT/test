@@ -26,18 +26,7 @@ public class Book {
         else {
             raiting--;
         }
-        //if (increase==20) {
-        //    increase=increase+1;}
-
-        //    if (increase > 5) {
-          //      increase=increase-1;
-
-         //   } else if (0 < increase && increase < 5) {
-            //    System.out.println("Vasha ocenka uchtena");
-          //  } else {
-           //     System.out.println("Reiting ne mozhet bit' men'she 0 i bol'she 5");
-          //  }
-        }
+              }
 
         public void append(String moreText){
                    // Scanner scanner = new Scanner(System.in);
